@@ -86,7 +86,7 @@ def build_fixture_string(fixtures, flag_map, leagues_data):
                 h = m['goals']['home'] if m['goals']['home'] is not None else 0
                 a = m['goals']['away'] if m['goals']['away'] is not None else 0
                 icon = "🚩" if status in LIVE_STATUSES else "🏁"
-                line = f"{f_home} {home} {h} - {a} {f_away} {icon}"
+                line = f"{f_home} {home} {h} - {a} {away} {f_away} {icon}"
 
             output += line + "\n"
 
@@ -159,3 +159,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+        
