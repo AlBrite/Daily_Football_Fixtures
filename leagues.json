@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Premier League",
+        "country": "England",
+        "id": 39,
+        "current_season": 2026
+    },
+    {
+        "name": "La Liga",
+        "country": "Spain",
+        "id": 140,
+        "current_season": 2026
+    },
+    {
+        "name": "Serie A",
+        "country": "Italy",
+        "id": 135,
+        "current_season": 2026
+    },
+    {
+        "name": "Bundesliga",
+        "country": "Germany",
+        "id": 78,
+        "current_season": 2026
+    },
+    {
+        "name": "Ligue 1",
+        "country": "France",
+        "id": 61,
+        "current_season": 2026
+    },
+    {
+        "name": "UEFA Champions League",
+        "id": 2,
+        "current_season": 2026
+    },
+    {
+        "name": "UEFA Europa League",
+        "id": 3,
+        "current_season": 2026
+    },
+    {
+        "name": "UEFA Europa Conference League",
+        "id": 848,
+        "current_season": 2026
+    },
+    {
+        "name": "UEFA Super Cup",
+        "id": 4,
+        "current_season": 2026
+    },
+    {
+        "name": "FIFA World Cup",
+        "id": 1,
+        "current_season": 2026
+    }
+]
